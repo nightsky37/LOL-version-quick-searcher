@@ -16,7 +16,7 @@ Search the version update information of League of Legends on TW server
 
 按下查詢，即可得知更新資訊
 
-##Requirements
+## Requirements
 - PyQt5
 - Beautifulsoup
 - Selenium
