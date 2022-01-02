@@ -15,3 +15,8 @@ Search the version update information of League of Legends on TW server
 並且輸入想要查詢之英雄、道具、符文(參考版本概要圖更快速)
 
 按下查詢，即可得知更新資訊
+
+##Requirements
+- PyQt5
+- Beautifulsoup
+- Selenium
